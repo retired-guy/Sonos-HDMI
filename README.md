@@ -6,11 +6,12 @@ Build notes:
 2. Create an empty file named "ssh" in the /boot directory of the sd card
 3. Create a file named "wpa_supplicant.conf" in the /boot directory of the sd card, with your wifi info
 4. Edit the file "config.txt" in the /boot directory, adding/changing these lines:
-# uncomment to force a specific HDMI mode (this will force VGA)
-hdmi_group=2
-hdmi_mode=87
-hdmi_cvt=800 480 60 6 0 0 0
-hdmi_drive=1
+   uncomment to force a specific HDMI mode (this will force VGA)
+   hdmi_group=2
+   hdmi_mode=87
+   hdmi_cvt=800 480 60 6 0 0 0
+   hdmi_drive=1
+   
 5. Put the sd card into the Pi Zero W, power it up with HDMI screen plugged in
 6. Ssh into the IP address displayed on the HDMI screen, e.g. ssh pi@192.168.68.123 (default pwd is "raspberry")
 7. sudo raspi-config
