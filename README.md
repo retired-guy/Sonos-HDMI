@@ -21,7 +21,7 @@ hdmi_drive=1
 6. Ssh into the IP address displayed on the HDMI screen, e.g. ssh pi@192.168.68.123 (default pwd is "raspberry")
 7. sudo raspi-config
 
-set Local
+set Locale
 
 set Timezone
 
