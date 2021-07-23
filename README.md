@@ -76,7 +76,7 @@ Creating a service: https://www.raspberrypi.org/documentation/linux/usage/system
 Setting up a headless Pi: https://www.raspberrypi.org/documentation/configuration/wireless/headless.md
 
   
-[photo](https://1.bp.blogspot.com/-WKMlpBRRxEQ/YPn4OAnMM9I/AAAAAAAAuoU/Odb5FPkRwFYsirDvKZnRG-oSyxkjS2IqgCLcBGAsYHQ/s2048/FAAFCA05-9228-43DB-9009-04EAE065DCC2.jpeg)
+![photo](https://1.bp.blogspot.com/-WKMlpBRRxEQ/YPn4OAnMM9I/AAAAAAAAuoU/Odb5FPkRwFYsirDvKZnRG-oSyxkjS2IqgCLcBGAsYHQ/s2048/FAAFCA05-9228-43DB-9009-04EAE065DCC2.jpeg)
    
    
    
