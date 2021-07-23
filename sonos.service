@@ -1,0 +1,15 @@
+[Unit]
+Description=Sonos
+After=network.target
+
+[Service]
+ExecStart=/home/pi/sonos/sonos.py
+WorkingDirectory=/home/pi/sonos
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
+
