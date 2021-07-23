@@ -6,6 +6,7 @@ Build notes:
 2. Create an empty file named "ssh" in the /boot directory of the sd card
 3. Create a file named "wpa_supplicant.conf" in the /boot directory of the sd card, with your wifi info
 4. Edit the file "config.txt" in the /boot directory, adding/changing these lines:
+
 \#uncomment to force a specific HDMI mode (this will force VGA)
 
 hdmi_group=2
