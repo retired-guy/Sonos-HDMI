@@ -35,7 +35,7 @@ sudo apt install python3-pip
 
 sudo usermod -a -G video pi
 
-sudo apt install libopen-jp2-7-dev
+sudo apt install libopenjp2-7-dev
 
 sudo apt install libtiff5
 
@@ -43,7 +43,7 @@ sudo apt install ttf-dejavu
 
 pip3 install soco
 
-pip3 install Pillow
+pip3 install Pillow==8.4.0
 
 9. cd ~
 
