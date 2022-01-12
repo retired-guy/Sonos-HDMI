@@ -39,8 +39,6 @@ sudo apt install libopenjp2-7-dev
 
 sudo apt install libtiff5
 
-sudo apt install ttf-dejavu
-
 pip3 install soco
 
 pip3 install Pillow==8.4.0
